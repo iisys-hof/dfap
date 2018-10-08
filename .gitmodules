@@ -1,0 +1,27 @@
+[submodule "dfap-daos"]
+	path = dfap-daos
+	url = git@github.com:iisys-hof/dfap-daos.git
+[submodule "dfap-database"]
+	path = dfap-database
+	url = git@github.com:iisys-hof/dfap-database.git
+[submodule "dfap-microservice-document"]
+	path = dfap-microservice-document
+	url = git@github.com:iisys-hof/dfap-microservice-document.git
+[submodule "dfap-microservice-feedback"]
+	path = dfap-microservice-feedback
+	url = git@github.com:iisys-hof/dfap-microservice-feedback.git
+[submodule "dfap-microservice-order"]
+	path = dfap-microservice-order
+	url = git@github.com:iisys-hof/dfap-microservice-order.git
+[submodule "dfap-microservice-printer"]
+	path = dfap-microservice-printer
+	url = git@github.com:iisys-hof/dfap-microservice-printer.git
+[submodule "dfap-microservice-toolsettings"]
+	path = dfap-microservice-toolsettings
+	url = git@github.com:iisys-hof/dfap-microservice-toolsettings.git
+[submodule "dfap-smbcmis"]
+	path = dfap-smbcmis
+	url = git@github.com:iisys-hof/dfap-smbcmis.git
+[submodule "dfap-web-ui"]
+	path = dfap-web-ui
+	url = git@github.com:iisys-hof/dfap-web-ui.git
